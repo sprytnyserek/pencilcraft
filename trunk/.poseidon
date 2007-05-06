@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<projectDescription>
+	<name>test</name>
+	<exeName>sdltest</exeName>
+	<comment />
+	<filter>*.d</filter>
+	<showemptyfolder>0</showemptyfolder>
+	<zipPath />
+	<buildSpec>
+		<buildOption />
+		<buildType>0</buildType>
+		<CompilerOption>33603584</CompilerOption>
+		<CompilerExtraOption />
+		<LibOption>0 0 0 0 16</LibOption>
+		<mainFile>main.d</mainFile>
+		<Args />
+		<objPathName>objs</objPathName>
+		<projectFiles />
+		<includePaths />
+		<linkLibrarys>
+			<name>D:\D\sdltest\objs\rgbhsv.obj</name>
+		</linkLibrarys>
+		<ignoreModules />
+	</buildSpec>
+</projectDescription>
